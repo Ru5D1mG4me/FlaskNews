@@ -12,7 +12,7 @@ A news site built using the Flask microframework.
 
 ## How to start
 1. Clone the repository
-2. Create and activate a virtualокружение
+2. Create and activate a virtual enviroment
 ```commandline
 python -m venv venv
 source venv/bin/activate

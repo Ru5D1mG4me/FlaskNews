@@ -1,4 +1,4 @@
-# News portal
+# FlaskNews
 A news site where anyone can share the news!
 
 ## Description
